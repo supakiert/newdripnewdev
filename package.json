@@ -1,5 +1,4 @@
 {
-  "homepage":"https://supakiert.github.io/supasodrip/" ,
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +7,8 @@
     "build": "vite build",
     "dev": "vite",
     "preview": "vite preview --port 8080",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
