@@ -56,7 +56,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-5 text-secondary text-[15px] max-w-4xl leading-[30px]"
       >
-        I am a skilled DevOps engineer with experience inHigh Performance Computing 
+        I am a skilled DevOps engineer with experience in High Performance Computing 
         with skills Parallel programming tools (OpenMP and MPI) Performance Analysis
         (Paraver, Extrae), Job script (sbatch, slurm) and Containers like Docker, K8s
         and experience with Frameworks like React.js, Node.js, Express.js
