@@ -42,11 +42,11 @@ const About = () => {
 
     
       <motion.div variants={textVariant()}>
-        <h2 className={styles.sectionHeadText}>Newdrip Dev.</h2>
+        <h2 className={styles.sectionHeadText}>Newdrip somuch.</h2>
 
           <img
             src={images}
-            className="w-[30%] h-[30%] object-contain Radius: rounded-circle"
+            className="w-[50%] h-[40%] object-contain Radius: rounded-circle"
           />
       </motion.div>
 
@@ -54,12 +54,12 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[20px] max-w-4xl leading-[30px]  "
+        className="mt-5 text-secondary text-[15px] max-w-4xl leading-[30px]"
       >
-        <p>I am a skilled DevOps engineer with experience in High Performance Computing </p>
-        <p>with skills Parallel programming tools (OpenMP and MPI) Performance Analysis</p>
-        <p> (Paraver, Extrae), Job script (sbatch, slurm) and Containers like Docker, K8s</p>
-        <p> and experience with Frameworks like React.js, Node.js, Express.js</p>
+        I am a skilled DevOps engineer with experience inHigh Performance Computing 
+        with skills Parallel programming tools (OpenMP and MPI) Performance Analysis
+        (Paraver, Extrae), Job script (sbatch, slurm) and Containers like Docker, K8s
+        and experience with Frameworks like React.js, Node.js, Express.js
 
 
 
@@ -67,12 +67,12 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[20px] max-w-3xl leading-[30px]  "
+        className="mt-4 text-secondary text-[15px] max-w-3xl leading-[30px]  "
       >
-        <p>Used to have access to use 3 Supercomputer center (Competitive)</p>
-        <p>1. Gadi #69 (NCI Australia)</p>
-        <p>2. Aspire #197 (NSCC Singapore)</p>
-        <p>3. TARA (ThaiSC Thailand)</p>
+        Used to have access to use 3 Supercomputer center (Competitive)
+        <br></br>1. Gadi #69 (NCI Australia)
+        <br></br>2. Aspire #197 (NSCC Singapore)
+        <br></br>3. TARA (ThaiSC Thailand)
 
   
     
