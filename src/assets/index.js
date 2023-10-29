@@ -34,6 +34,7 @@ import HPCAI2022 from "./HPCAI2022.png"
 import AUCC from "./AUCC.jpg"
 import POSTER from "./poster.png"
 import MODDANG from "./moddnag.png"
+import ROTARY from "./rotary.jpg"
 
 export {
   HPCAI2021,
@@ -41,6 +42,7 @@ export {
   AUCC,
   POSTER,
   MODDANG,
+  ROTARY,
 
   logo,
   backend,

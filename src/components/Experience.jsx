@@ -61,7 +61,6 @@ const Experience = () => {
   return (
     <>
         <h2 className={styles.sectionHeadText}>Experience.</h2>
-
       <div className="mt-20 flex flex-col">
         <VerticalTimeline>
           {experiences.map((experience, index) => (

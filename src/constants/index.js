@@ -28,6 +28,7 @@ import {
   AUCC,
   POSTER,
   MODDANG,
+  ROTARY,
 } from "../assets";
 
 
@@ -154,6 +155,17 @@ const experiences = [
     date: "May 2020",
     points: [
       "This boot camp teach about big data for analysis and exploitation for business. or artificial intelligence"
+    ],
+  },
+
+  {
+    title: "Rotary Youth Leadership Awards 2017",
+    company_name: "Rotary District 3350",
+    images: ROTARY,
+    iconBg: "RED",
+    date: "June 2017",
+    points: [
+      "Rotary Youth Leadership Awards is for local youth to develop leadership skills. Learn to live together Sharing with others Add new experiences and self-help Supported by Rotary 3350"
     ],
   },
 ];
